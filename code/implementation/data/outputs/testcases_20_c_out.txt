@@ -1,0 +1,2 @@
+Greedy_Mayor_Bono -> MaxSatisfaccion: 5901760174
+Greedy_Menos_Capitulos -> MaxSatisfaccion: 6699261138

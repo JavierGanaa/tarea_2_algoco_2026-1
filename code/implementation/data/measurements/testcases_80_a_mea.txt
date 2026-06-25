@@ -1,0 +1,6 @@
+Greedy_Mayor_Bono -> 
+Tiempo (ms): 103.042
+Memoria usada: 0
+Greedy_Menos_Capitulos -> 
+Tiempo (ms): 25.724
+Memoria usada: 0
